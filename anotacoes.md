@@ -20,7 +20,7 @@
  - echo mensagem > nomearq.extensao - Coloca a saída do comando em um arquivo
  - rm -rf nome - Deletar repositório
 
-## Geral (não sei se funciona nos dois):
+## Geral
  - git init - Inicializar repositório
  - git add - Selecionar arquivos
  - git add * - Selecionar todos os arquivos
